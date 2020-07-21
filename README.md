@@ -28,8 +28,6 @@ Prismic is a Headless Content Management System, a tool for editing online conte
   - [Next.js](#nextjs)
   - [Create React App](#create-react-app)
   - [Nuxt.js](#nuxtjs)
-  - [Gridsome](#gridsome)
-  - [Vue CLI](#vue-cli)
   - [Node.js](#nodejs)
   - [PHP](#php)
 - [Learning](#learning)
