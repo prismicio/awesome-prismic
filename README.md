@@ -82,12 +82,13 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 ## Starters & Examples
 
-> Awesome entries labeled with a star _(\*)_ are community baked ones.
+<!-- > Awesome entries labeled with a star _(\*)_ are community baked ones. -->
 
 ### Gatsby
 
 - [gatsby-blog](https://github.com/prismicio/gatsby-blog) - Example blog project.
 - [gatsby-multi-language-site](https://github.com/prismicio/gatsby-multi-language-site) - Example multi-language website project.
+- [prismic-gatsby-coffee-sample](https://github.com/prismicio/prismic-gatsby-coffee-sample) - Example eCommerce project.
 - [gatsby-starter-default](https://github.com/prismicio/gatsby-starter-default) - Starter project.
 
 ### Next.js
@@ -122,8 +123,33 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 ### Get Started
 
-<!-- TODO -->
+**React**
+
+- [Creating JAMstack website with a Headless CMS from Scratch](https://medium.com/weekly-webtips/creating-jamstack-website-with-a-headless-cms-from-scratch-70686b8050b4) - A comprehensive tutorial on creating a website with Gatsby and Prismic. `06/29/2020`
+- [Set up NextJs 9.4 with Prismic as Headless CMS](https://dev.to/ruben_suet/set-up-nextjs-9-4-with-prismic-as-headless-cms-27ij) - A comprehensive tutorial on creating a blog with Next.js and Prismic. `05/25/2020`
+- [Building a Serverless Static Website in 2020](https://jellypepper.com/blog/building-a-serverless-static-website-in-2020) - An introduction to decoupled, serverless workflows with Prismic and Gatsby. `01/15/2020`
+- [Getting Started with Gatsby Tutorials](https://prismic.io/docs/gatsby/getting-started-tutorials/getting-started-tutorials) - A step-by-step tutorial on how to use Prismic with Gatsby.
+- [Sourcing from Prismic](https://www.gatsbyjs.org/docs/sourcing-from-prismic) - Gatsby tutorial to set up a site with Prismic.
+- [Gatsby JS & Prismic: Build RAPID Gatsby sites](https://www.udemy.com/course/gatsby-js-prismic-netlify) - A Udemy course to create static sites with Gatsby and Prismic.
+
+**Vue.js**
+
+- [Manage static content with Prismic.io and Nuxt.js](https://www.bitbull.it/en/blog/static-content-with-prismic-and-nuxt) - A comprehensive tutorial on creating a website with Nuxt.js and Prismic. `05/16/2020`
+
+**Node.js**
+
+- [Quick Start Node.js](https://prismic.io/quickstart#?lang=javascript) - A quick start guide on how to use Prismic with Node.js.
+
+**Other**
+
+- [Slice Machine from Prismic](https://www.codegram.com/blog/slice-machine-from-prismic) - An introduction to Prismic new open-source project: Slice Machine. `06/01/2020`
 
 ### Focus
 
-<!-- TODO -->
+- [Troubleshooting: Previews](https://user-guides.prismic.io/en/articles/3403530-troubleshooting-previews) - Some general guidance to troubleshoot and fix your Prismic previews.
+- [How to setup Prismic preview with Gatsby](https://robsimpson.digital/articles/prismic-preview-gatsby) - An article helping you to get previews working with Gatsby. `07/08/2020`
+- [How to create branded case studies with Prismic slices](https://jellypepper.com/blog/how-to-create-branded-case-studies-with-prismic-slices) - How to use Prismic slices and Gatsby to create on-brand customer success stories. `01/20/2020`
+- [Enhance Your Prismic + Gatsby Site with a Table of Contents](https://levelup.gitconnected.com/enhance-your-prismic-gatsby-site-with-a-table-of-contents-7e6739de3364) - Learn how to create a Table of Contents with Gatsby and Prismic. `02/18/2020`
+- [A Guide to Setting Up Multiple Languages in React and Prismic](https://medium.com/swlh/a-guide-to-setting-up-multiple-languages-in-react-and-prismic-6b5e04ff3c3) - A quick run-through of an approach to build a multi-language website. `07/17/2020`
+- [How to make an E-Commerce with Nuxt, Prismic and Snipcart in 2020](https://medium.com/js-dojo/how-to-make-an-e-commerce-with-nuxt-prismic-and-snipcart-in-2020-6e670269c5dc) - A tutorial on how to integrate Prismic and Snipcart together on a static site. `04/08/2020`
+- [Add FAQ structured data to your articles using Prismic and GatsbyJS](https://fullstackheroes.com/prismic/faq-structured-data-in-gatsby) - Learn how to create FAQ structured data with Prismic and Gatsby. `05/15/2020`
