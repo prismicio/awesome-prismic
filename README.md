@@ -148,6 +148,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 **Other**
 
 - [Slice Machine from Prismic](https://www.codegram.com/blog/slice-machine-from-prismic) - Introduction to Prismic new open-source project: Slice Machine. `06/01/2020`
+- [Getting Started with Prismic - A Great Headless CMS](https://morioh.com/p/ef851a763cf6) - Comprehensive content modeling introduction to Prismic. `03/10/2020`
 
 ### Focus
 
