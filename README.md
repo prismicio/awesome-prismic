@@ -139,6 +139,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 **Vue.js**
 
+- [JAMstack with Prismic and Gridsome. Score 100% on Google Page speed!](https://www.youtube.com/watch?v=tqR2EO7Tivc) - Overview of how Prismic and Gridsome can work together. `05/07/2020`
 - [Create a blog with Prismic.io and NuxtJS](https://viarami.com/programming/blog-prismic-nuxtjs) - Comprehensive tutorial on creating a blog with Nuxt.js and Prismic. `05/12/2020`
 - [Manage static content with Prismic.io and Nuxt.js](https://www.bitbull.it/en/blog/static-content-with-prismic-and-nuxt) - Comprehensive tutorial on creating a website with Nuxt.js and Prismic. `05/16/2020`
 
@@ -160,3 +161,4 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [Add FAQ structured data to your articles using Prismic and GatsbyJS](https://fullstackheroes.com/prismic/faq-structured-data-in-gatsby) - Learn how to create FAQ structured data with Prismic and Gatsby. `05/15/2020`
 - [How to setup Prismic preview with Gatsby](https://robsimpson.digital/articles/prismic-preview-gatsby) - Article helping you to get previews working with Gatsby. `07/08/2020`
 - [A Guide to Setting Up Multiple Languages in React and Prismic](https://medium.com/swlh/a-guide-to-setting-up-multiple-languages-in-react-and-prismic-6b5e04ff3c3) - Quick run-through of an approach to build a multi-language website. `07/17/2020`
+- [Nuxtjs + Prismic + OneSignal = Awesome PWA](https://medium.com/@carlhandy/nuxtjs-prismic-onesignal-awesome-pwa-6b0c2b5b56b3) - Deliver push notification with OneSignal when publishing new content on Prismic. `08/18/2020`
