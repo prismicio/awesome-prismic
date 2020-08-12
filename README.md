@@ -54,6 +54,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 > Find here a frequently updated list of hot stuff going on about Prismic: latest feature announcement, meetup informations, and more!
 
+- [Awesome Prismic](https://community.prismic.io/t/awesome-prismic/1520) - Check out the announcement post of this very repository. `08/12/2020`
 - [Prismic Environments](https://prismic.io/blog/prismic-environments) - New development environments feature announcement. `06/11/2020`
 
 ## Ecosystem
