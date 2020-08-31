@@ -55,7 +55,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 > Find here a frequently updated list of hot stuff going on about Prismic: latest feature announcement, meetup informations, and more!
 
 - [Awesome Prismic](https://community.prismic.io/t/awesome-prismic/1520) - Check out the announcement post of this very repository. `08/12/2020`
-- [Prismic Environments](https://prismic.io/blog/prismic-environments) - New development environments feature announcement. `06/11/2020`
+- [The Future of Slices](https://www.youtube.com/watch?v=F4AldXHgLg8) - Enjoy the replay of our first ever product meet-up. `08/26/2020`
 
 ## Ecosystem
 
@@ -81,7 +81,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [@nuxtjs/prismic](https://github.com/nuxt-community/prismic-module) - Nuxt.js Prismic module.
 - [prismic-utils](https://github.com/everydayhero/prismic-utils) - Collection of functions for parsing data coming from Prismic. _\*_
 - [buran](https://github.com/escaletech/buran) - Lightning-fast proxy cache for Prismic API. _\*_
-- [gatsby-source-prismic](https://github.com/prismicio/gatsby-source-prismic) - Gatsby source plugin for Prismic.
+- [gatsby-source-prismic](https://github.com/angeloashmore/gatsby-source-prismic) - Gatsby source plugin for Prismic. _\*_
 - [gatsby-source-prismic-graphql](https://github.com/prismicio/gatsby-source-prismic-graphql) - Gatsby source plugin for Prismic using Prismic's beta [GraphQL API](https://prismic.io/docs/graphql/getting-started/integrate-with-existing-js-project).
 
 ## Starters & Examples
@@ -136,6 +136,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [Building a Serverless Static Website in 2020](https://jellypepper.com/blog/building-a-serverless-static-website-in-2020) - Introduction to decoupled, serverless workflows with Prismic and Gatsby. `01/15/2020`
 - [Set up NextJs 9.4 with Prismic as Headless CMS](https://dev.to/ruben_suet/set-up-nextjs-9-4-with-prismic-as-headless-cms-27ij) - Comprehensive tutorial on creating a blog with Next.js and Prismic. `05/25/2020`
 - [Creating JAMstack website with a Headless CMS from Scratch](https://medium.com/weekly-webtips/creating-jamstack-website-with-a-headless-cms-from-scratch-70686b8050b4) - Comprehensive tutorial on creating a website with Gatsby and Prismic. `06/29/2020`
+- [Integrate Next.js & Prismic](https://www.netlify.com/blog/2020/08/28/integrate-next.js-prismic) - Quick start for integrating Next.js with Prismic. `08/28/2020`
 
 **Vue.js**
 
