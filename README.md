@@ -54,8 +54,9 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 > Find here a frequently updated list of hot stuff going on about Prismic: latest feature announcement, meetup informations, and more!
 
-- [From a monolithic CMS to microservices](https://prismic.io/blog/from-a-monolithic-cms-to) - Read about our webinar with Tim Benniks and enjoy its replay. `09/25/2020`
-- [Shared Slices & Slice Machine Release...](https://hopin.to/events/prismic-product-meet-up-shared-slices-slice-machine-release) - Join us for our next product meet-up. `10/28/2020`
+- [#SliceContest: Share Your Slice Library](https://prismic.io/blog/slice-contest) - We are organizing a contest to celebrate Slice Machine latest release! `10/30/2020`
+- [Slice Machine update: Slice Builder and a Slice Contest](https://prismic.io/blog/slice-machine-update-slice-builder-and-a-slice-contest) - Read about our last webinar and enjoy its replay. `04/11/2020`
+- [November Product Meet-Up](https://hopin.com/events/november-product-meet-up) - Join us for our next product meet-up. `11/24/2020`
 
 ## Ecosystem
 
