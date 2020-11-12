@@ -9,7 +9,7 @@
 
 # Awesome Prismic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things related to [Prismic](https://prismic.io).
+> A curated list of awesome things related to [Prismic](https://prismic.io?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic).
 
 Prismic is a Headless Content Management System, a tool for editing online content that lets you choose your technology, framework, and language.
 
@@ -38,15 +38,15 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 ### Resources
 
-- [Prismic](https://prismic.io) - Prismic website.
-- [Documentation](https://prismic.io/docs) - Official documentation.
+- [Prismic](https://prismic.io?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Prismic website.
+- [Documentation](https://prismic.io/docs?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Official documentation.
 - [Slice Machine](https://www.slicemachine.dev) - Slice Machine website
 
 ### Community
 
 - [Forum](https://community.prismic.io) - Community forum & support.
   - [I Made This! - Websites & Apps](https://community.prismic.io/c/i-made-this/websites-apps/33) - We love to see websites made with Prismic! You can freely share them there.
-- [Blog](https://prismic.io/blog) - Company blog.
+- [Blog](https://prismic.io/blog?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Company blog.
 - [Twitter](https://twitter.com/prismicio) - Official Twitter account.
 - [YouTube](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA) - Official Youtube channel.
 
