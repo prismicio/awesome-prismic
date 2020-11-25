@@ -54,9 +54,8 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 > Find here a frequently updated list of hot stuff going on about Prismic: latest feature announcement, meetup informations, and more!
 
-- [#SliceContest: Share Your Slice Library](https://prismic.io/blog/slice-contest) - We are organizing a contest to celebrate Slice Machine latest release! `10/30/2020`
-- [Slice Machine update: Slice Builder and a Slice Contest](https://prismic.io/blog/slice-machine-update-slice-builder-and-a-slice-contest) - Read about our last webinar and enjoy its replay. `04/11/2020`
-- [November Product Meet-Up](https://hopin.com/events/november-product-meet-up) - Join us for our next product meet-up. `11/24/2020`
+- [Slice Machine update: Slice Builder and a Slice Contest](https://prismic.io/blog/slice-machine-update-slice-builder-and-a-slice-contest) - Read about our last webinar and enjoy its replay. `11/04/2020`
+- [December Product Meet-Up](https://hopin.com/events/december-product-meet-up) - Join us for our next product meet-up. `12/16/2020`
 
 ## Ecosystem
 
@@ -151,8 +150,8 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 **Other**
 
-- [Slice Machine from Prismic](https://www.codegram.com/blog/slice-machine-from-prismic) - Introduction to Prismic new open-source project: Slice Machine. `06/01/2020`
 - [Getting Started with Prismic - A Great Headless CMS](https://morioh.com/p/ef851a763cf6) - Comprehensive content modeling introduction. `03/10/2020`
+- [Slice Machine from Prismic](https://www.codegram.com/blog/slice-machine-from-prismic) - Introduction to Prismic new open-source project: Slice Machine. `06/01/2020`
 
 ### Focus
 
@@ -164,4 +163,4 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [How to setup Prismic preview with Gatsby](https://robsimpson.digital/articles/prismic-preview-gatsby) - Article helping you to get previews working with Gatsby. `07/08/2020`
 - [A Guide to Setting Up Multiple Languages in React and Prismic](https://medium.com/swlh/a-guide-to-setting-up-multiple-languages-in-react-and-prismic-6b5e04ff3c3) - Quick run-through of an approach to build a multi-language website. `07/17/2020`
 - [A strategy for handling required fields and validation in Prismic](https://medium.com/vokal-voices/prismic-field-validation-3ebf33ffdd6) - Handling missing fields and validation with Prismic. `07/30/2020`
-- [Nuxtjs + Prismic + OneSignal = Awesome PWA](https://medium.com/@carlhandy/nuxtjs-prismic-onesignal-awesome-pwa-6b0c2b5b56b3) - Deliver push notification with OneSignal when publishing new content on Prismic. `08/18/2020`
+- [Nuxtjs + Prismic + OneSignal = Awesome PWA](https://medium.com/@carlhandy/nuxtjs-prismic-onesignal-awesome-pwa-6b0c2b5b56b3) - Deliver push notification with OneSignal when publishing new content on Prismic. `08/12/2020`
