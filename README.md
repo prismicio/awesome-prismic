@@ -54,9 +54,8 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 > Find here a frequently updated list of hot stuff going on about Prismic: latest feature announcement, meetup informations, and more!
 
-- [A Glimpse From the Devs](https://twitter.com/hyperVillain/status/1346872331105427457) - Hugo is teasing new features coming for Slice Machine 👀. `01/06/2021`
-- [Prismic and Gatsby](https://hopin.com/events/prismic-and-gatsby) - Join us on Hopin to discuss Prismic integration with Gatsby. `01/21/2021`
-- [January Product Meet-Up](https://hopin.com/events/prismic-january-meet-up) - Sign up for our next product meet-up. `01/27/2021`
+- [Product Meet-Up Show](https://shows.prismic.io/product-meetup?utm_campaign=devexp&utm_source=awesomeprismic&utm_medium=shows) - Every month we run our Product Meetup show, also sharing remote pizzas with you all, come and join us!
+- [A Glimpse From the Devs](https://twitter.com/hyperVillain/status/1366341755239624706) - Hugo is teasing new features coming for Slice Machine 👀. `03/01/2021`
 
 ## Ecosystem
 
