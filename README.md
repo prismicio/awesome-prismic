@@ -74,6 +74,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [python-kit](https://github.com/prismicio/python-kit) - Python kit.
 - [csharp-kit](https://github.com/prismicio/csharp-kit) - C# kit.
 - [flusmic](https://github.com/PixelaGt/flusmic) - Dart and Flutter kit. _\*_
+- [ember-prismic-dom](https://github.com/qonto/ember-prismic-dom) - Prismic DOM for Ember. _\*_
 
 ### Plugins, Helpers and Tools
 
