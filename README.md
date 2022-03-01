@@ -11,7 +11,7 @@
 
 > A curated list of awesome things related to [Prismic](https://prismic.io?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic).
 
-Prismic is a Headless Content Management System, a tool for editing online content that lets you choose your technology, framework, and language.
+Prismic is a Headless Content Management System, a tool for editing online content that lets you choose your technology, framework, and language to build a powerful page builder for your content team.
 
 ## Contents
 
@@ -40,22 +40,28 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 - [Prismic](https://prismic.io?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Prismic website.
 - [Documentation](https://prismic.io/docs?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Official documentation.
-- [Slice Machine](https://www.slicemachine.dev) - Slice Machine website
+- [Slice Machine](https://www.slicemachine.dev) - Slice Machine website.
 
 ### Community
 
-- [Forum](https://community.prismic.io) - Community forum & support.
-  - [I Made This! - Websites & Apps](https://community.prismic.io/c/i-made-this/websites-apps/33) - We love to see websites made with Prismic! You can freely share them there.
 - [Blog](https://prismic.io/blog?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Company blog.
+- [Forum](https://community.prismic.io) - Community forum & support.
 - [Twitter](https://twitter.com/prismicio) - Official Twitter account.
 - [YouTube](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA) - Official Youtube channel.
+- [Twitch](https://www.twitch.tv/prismicio) - Official Twitch channel.
 
-## Hot Corner
+### Events
+
+- [Product Meetup](https://shows.prismic.io/product-meetup?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Monthly gathering on any kind of Prismic topic.
+- [Framework Streams](https://lu.ma/prismic?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - Learn about the latest from your favorite frameworks (Next, Nuxt & Gatsby).
+  - [I Made This!](https://prismic-team.typeform.com/imadethis?utm_campaign=devexp&utm_source=github&utm_medium=awesome-prismic) - We love to see your work with Prismic! Share yours here and we'll highlight them in the next show.
+
+<!-- ## Hot Corner -->
 
 > Find here a frequently updated list of hot stuff going on about Prismic: latest feature announcement, meetup informations, and more!
 
-- [Product Meet-Up Show](https://shows.prismic.io/product-meetup?utm_campaign=devexp&utm_source=awesomeprismic&utm_medium=shows) - Every month we run our Product Meetup show, also sharing remote pizzas with you all, come and join us!
-- [A Glimpse From the Devs](https://twitter.com/hyperVillain/status/1366341755239624706) - Hugo is teasing new features coming for Slice Machine 👀. `03/01/2021`
+<!-- - [Product Meet-Up Show](https://shows.prismic.io/product-meetup?utm_campaign=devexp&utm_source=awesomeprismic&utm_medium=shows) - Every month we run our Product Meetup show, also sharing remote pizzas with you all, come and join us!
+- [A Glimpse From the Devs](https://twitter.com/hyperVillain/status/1366341755239624706) - Hugo is teasing new features coming for Slice Machine 👀. `03/01/2021` -->
 
 ## Ecosystem
 
@@ -63,10 +69,23 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 
 ### Development Kits
 
-- [prismic-javascript](https://github.com/prismicio/prismic-javascript) - JavaScript API kit.
-- [prismic-dom](https://github.com/prismicio/prismic-dom) - JavaScript DOM kit.
-- [prismic-reactjs](https://github.com/prismicio/prismic-reactjs) - React component kit.
-- [prismic-vue](https://github.com/prismicio/prismic-vue) - Vue.js component kit.
+- [slice-machine](https://github.com/prismicio/slice-machine) - Create a page builder by developing website sections.
+
+---
+
+- [@prismicio/client](https://github.com/prismicio/prismic-client) - JavaScript API client.
+- [@prismicio/helpers](https://github.com/prismicio/prismic-helpers) - JavaScript templating helpers.
+- [@prismicio/types](https://github.com/prismicio/prismic-types) - Type definitions for Prismic related structure.
+- [@prismicio/react](https://github.com/prismicio/prismic-react) - React development kit.
+- [@prismicio/next](https://github.com/prismicio/prismic-next) - Next.js development kit.
+- [gatsby-source-prismic](https://github.com/prismicio/prismic-gatsby) - Gatsby development kit.
+- [@prismicio/vue](https://github.com/prismicio/prismic-vue) - Vue.js development kit.
+- [@nuxtjs/prismic](https://github.com/nuxt-community/prismic-module) - Nuxt.js development kit.
+- [eleventy-plugin-prismic](https://github.com/prismicio-community/eleventy-plugin-prismic) - 11ty development kit. _\*_
+- [ember-prismic-dom](https://github.com/qonto/ember-prismic-dom) - Prismic DOM for Ember. _\*_
+
+---
+
 - [php-kit](https://github.com/prismicio/php-kit) - PHP kit.
 - [ruby-kit](https://github.com/prismicio/ruby-kit) - Ruby kit.
 - [scala-kit](https://github.com/prismicio/scala-kit) - Scala kit.
@@ -74,39 +93,32 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [python-kit](https://github.com/prismicio/python-kit) - Python kit.
 - [csharp-kit](https://github.com/prismicio/csharp-kit) - C# kit.
 - [flusmic](https://github.com/PixelaGt/flusmic) - Dart and Flutter kit. _\*_
-- [ember-prismic-dom](https://github.com/qonto/ember-prismic-dom) - Prismic DOM for Ember. _\*_
 
 ### Plugins, Helpers and Tools
 
-- [slice-machine](https://github.com/prismicio/slice-machine) - Tool that helps you developing and deploying website sections.
-- [@nuxtjs/prismic](https://github.com/nuxt-community/prismic-module) - Nuxt.js Prismic module.
+- [prismic-ts-codegen](https://github.com/prismicio/prismic-ts-codegen) - Generate type definitions from your Prismic models.
 - [prismic-utils](https://github.com/everydayhero/prismic-utils) - Collection of functions for parsing data coming from Prismic. _\*_
 - [buran](https://github.com/escaletech/buran) - Lightning-fast proxy cache for Prismic API. _\*_
-- [gatsby-source-prismic](https://github.com/angeloashmore/gatsby-source-prismic) - Gatsby source plugin for Prismic. _\*_
-- [gatsby-source-prismic-graphql](https://github.com/prismicio/gatsby-source-prismic-graphql) - Gatsby source plugin for Prismic using Prismic's beta [GraphQL API](https://prismic.io/docs/graphql/getting-started/integrate-with-existing-js-project).
 
 ## Starters & Examples
 
 > Awesome entries labeled with a star _(\*)_ are community baked ones.
-
-### Gatsby
-
-- [gatsby-blog](https://github.com/prismicio/gatsby-blog) - Example blog project.
-- [gatsby-multi-language-site](https://github.com/prismicio/gatsby-multi-language-site) - Example multi-language website project.
-- [prismic-gatsby-coffee-sample](https://github.com/prismicio/prismic-gatsby-coffee-sample) - Example eCommerce project.
-- [gatsby-starter-default](https://github.com/prismicio/gatsby-starter-default) - Starter project.
-- [Gatsby Starters](https://www.gatsbyjs.org/starters/?c=CMS%3APrismic&v=2) - All Gatsby Starters featuring Prismic. _\*_
 
 ### Next.js
 
 - [nextjs-blog](https://github.com/prismicio/nextjs-blog) - Example blog project.
 - [nextjs-website](https://github.com/prismicio/nextjs-website) - Example multi-page website project.
 
+### Gatsby
+
+- [gatsby-blog](https://github.com/prismicio/gatsby-blog) - Example blog project.
+- [gatsby-multi-language-site](https://github.com/prismicio/gatsby-multi-language-site) - Example multi-language website project.
+- [prismic-gatsby-coffee-sample](https://github.com/prismicio/prismic-gatsby-coffee-sample) - Example eCommerce project.
+
 ### Create React App
 
 - [reactjs-blog](https://github.com/prismicio/reactjs-blog) - Example blog project.
 - [reactjs-website](https://github.com/prismicio/reactjs-website) - Example multi-page website project.
-- [reactjs-starter](https://github.com/prismicio/reactjs-starter) - Starter project.
 
 ### Nuxt.js
 
