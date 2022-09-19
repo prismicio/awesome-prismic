@@ -100,7 +100,7 @@ Prismic is a Headless Content Management System, a tool for editing online conte
 - [prismic-ts-codegen](https://github.com/prismicio/prismic-ts-codegen) - Generate type definitions from your Prismic models.
 - [prismic-utils](https://github.com/everydayhero/prismic-utils) - Collection of functions for parsing data coming from Prismic. _\*_
 - [buran](https://github.com/escaletech/buran) - Lightning-fast proxy cache for Prismic API. _\*_
-- [elgentos/magento2-prismicio](https://github.com/elgentos/magento2-prismicio) - Magento 2 extension to integrate Prismic into Magento 2
+- [magento2-prismicio](https://github.com/elgentos/magento2-prismicio) - Magento 2 extension to integrate Prismic into Magento 2. _\*_
 
 ## Starters & Examples
 
